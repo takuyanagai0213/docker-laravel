@@ -89,7 +89,7 @@
                         <a class="nav-link" href="{{ route('register') }}" style="color:#fefefe; display:inline;">{{ __('会員登録') }}</a>
                     </p>
                 @endif
-            
+            a
             @endguest
             <br>
             <div style="margin-top:24px;">
